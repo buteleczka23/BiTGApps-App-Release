@@ -1,0 +1,21 @@
+* BiTGApps Release R45
+* BiTGApps Addon Release R33
+* Updated BiTGApps config
+* Updated MicroG config
+* Updated Additional Patches
+* Updated SetupWizard Patches
+* Updated MicroG GmsCore
+* Updated F-Doid Package
+* Updated LocalGsmNlpBackend module
+* Updated build FP/SPL to January 2022
+* Updated SafetyNet Patch
+* Updated Hide Policy Patch
+* Added F-Droid Privileged Extension
+* Added Google Photos Unlimited Backup
+* Fixed backup/restore of A/B OTAs
+* Shipped functional OTA survival script
+* Extend use of busybox backup
+* Allow hiding SU after App launch
+* Handle conflicting partition layouts
+* Simplify configuration file usage
+* Other fixes and improvements under the hood
